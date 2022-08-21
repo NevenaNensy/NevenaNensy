@@ -4,7 +4,7 @@ I worked as an accountant for about ten years. I'm currently in a career transit
 
 Learning and working with: Python, Selenium WebDriver, API testing, JMeter, SQL, Jira, Bitbucket, writing Test cases, Test plans and Test Reports.
 
-Communication tools: GitHub, Jira, Bitbucket.
+Communication tools: GitHub, Jira and Bitbucket.
 
 Now I’m looking to collaborate on different projects where I can apply my knowledge in software testing and learn new skills.
 
