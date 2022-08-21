@@ -10,5 +10,5 @@ Now I’m looking to collaborate on different projects where I can apply my know
 
 How to reach me: https://www.linkedin.com/in/nevena-petkovic-b22554240/
 
-Hobies: Salsa social dance, Snowboard, Music... 
+Hobies: Salsa social dance, Snowboard, Music and I have a plan to add more skills that I would like to learn... 
 
